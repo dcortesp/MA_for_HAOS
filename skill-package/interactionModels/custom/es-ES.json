@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "audio player sample",
+      "invocationName": "dispositivos sonido ejemplo",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
@@ -19,10 +19,10 @@
           "name": "PlayAudioIntent",
           "slots": [],
           "samples": [
-            "start my audio",
-            "play my audio",
-            "start audio",
-            "play audio"
+            "empieza mi audio",
+            "reproduce mi audio",
+            "empieza audio",
+            "reproduce audio"
           ]
         },
         {
